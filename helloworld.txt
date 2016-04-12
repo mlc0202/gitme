@@ -1,0 +1,1 @@
+Beyond Compare will then open and only display my current main.css in the left pane, there is nothing in the right pane. I would like the see my current main.css in the left pane compared to the HEAD, basically what I have last committed.
